@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Compagnon D&D maskable">
+  <rect width="512" height="512" fill="#09090b"/>
+  <rect x="48" y="48" width="416" height="416" rx="96" fill="#6d28d9"/>
+  <text x="256" y="290" text-anchor="middle" font-size="180" font-family="Arial, sans-serif" fill="#ffffff">🎲</text>
+</svg>

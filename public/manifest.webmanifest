@@ -1,0 +1,22 @@
+{
+  "name": "Compagnon Foundry D&D",
+  "short_name": "Compagnon D&D",
+  "description": "Application compagnon mobile-first pour les joueurs D&D 5e.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/maskable-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
